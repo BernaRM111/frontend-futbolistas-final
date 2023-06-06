@@ -24,10 +24,9 @@ const Link = (props) => {
         <br></br>
         Asistencias: {link.asistencias} 
         <br></br>
-        Imagen:  
+        Imagen: {link.imagen}  
         <br></br>
         <br></br>
-        <img src={link.imagen} width="150" height="150"/>
         <br></br>
         <br></br>
 
